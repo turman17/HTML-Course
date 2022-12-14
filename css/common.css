@@ -1,0 +1,9 @@
+:root {
+    --main-color: #212121;
+    --second-color: #757575;
+    --logo-color: #FFFFFF;
+  }
+
+  .logo {
+    color: #000000
+}

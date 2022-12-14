@@ -1,0 +1,122 @@
+/* color: #212121 */
+
+/* header.index html */
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.table {
+  list-style: none;
+}
+.table-studio, .table-contacts, .table-portfolio-studio, .table-portfolio{
+  color: #212121;
+}
+.table-studio{
+    color: #2196f3;
+}
+.table:hover,
+:focus {
+  color: #2196f3;
+}
+.phone{
+    color: #757575;
+}
+.mail{
+    color: #2196f3;
+}
+/* hero */
+.logo {
+  color: #212121;
+}
+.web-header {
+  color: #2196f3;
+}
+.hero {
+  background-color: #2f303a;
+}
+.hero-title {
+  color: #ffffff;
+}
+.button {
+  color: #ffffff;
+}
+.button:hover,
+:focus {
+  color: #188ce8;
+}
+/* детали */
+.deteails {
+  background-color: #f5f5f5;
+}
+.details {
+    list-style: none;
+}
+.details-heading {
+  color: #212121;
+}
+.details-text {
+  color: #757575;
+}
+
+/* Чим ми займаємося */
+.work-title {
+  color: #212121;
+}
+.work-ex {
+  list-style: none;
+}
+/* наша команда */
+
+.team {
+  color: #212121;
+  background-color: #f5f4fa;
+}
+.team-ex {
+  list-style: none;
+}
+.team-names {
+  color: #212121;
+}
+.team-exs {
+  color: #757575;
+}
+
+/* footer */
+.footer {
+  background-color: #2f303a;
+}
+.logo-footer {
+  color: #ffffff;
+}
+.web {
+  color: #2196f3;
+}
+.map {
+  color: #ffffff;
+}
+.mail-footer {
+  color: #757575;
+}
+.phone-footer {
+  color: #757575;
+}
+
+/* header portfolio */
+.table-portfolio-portfl{
+    color: #2196f3;
+}
+.table-portfolio-portfl:hover, :focus{
+    color: #212121;
+}
+
+/* button */
+.button-port{
+    list-style: none;
+}
+/* portfolio */
+.main{
+   background-color: #F5F5F5;
+}
+
+.portfolio-list{
+    list-style: none;
+}
